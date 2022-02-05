@@ -1,6 +1,7 @@
-![](https://github.com/Iormaieru/Iormaieru/blob/main/giph.gif)
+<img src= "https://github.com/Iormaieru/Iormaieru/blob/main/giph.gif" width="250"> <img src= "https://github.com/Iormaieru/Iormaieru/blob/main/giphy.gif" width="250"> <img src= "https://github.com/Iormaieru/Iormaieru/blob/main/javascript.gif" width="250"> <img src= "https://github.com/Iormaieru/Iormaieru/blob/main/sql.gif" width="250"> <img src= "https://github.com/Iormaieru/Iormaieru/blob/main/vscode.gif" width="250">
 
-### Hi there 👋
+
+### Saludos Universo...!!! :rocket:
 
 
 <!--
@@ -17,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Si quieres conocerme un poco mas :mag_right: :point_down:

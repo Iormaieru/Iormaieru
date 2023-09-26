@@ -1,4 +1,4 @@
-<img src= "https://github.com/Iormaieru/Iormaieru/blob/main/giph.gif" width="200"> <img src= "https://github.com/Iormaieru/Iormaieru/blob/main/giphy.gif" width="170"> <img src= "https://github.com/Iormaieru/Iormaieru/blob/main/javascript.gif" width="180"> <img src= "https://github.com/Iormaieru/Iormaieru/blob/main/sql.gif" width="180"> <img src= "https://github.com/Iormaieru/Iormaieru/blob/main/vscode.gif  " width="175">
+<img src= "https://github.com/Iormaieru/Iormaieru/blob/main/giph.gif" width="150"> <img src= "https://github.com/Iormaieru/Iormaieru/blob/main/giphy.gif" width="120"> <img src= "https://github.com/Iormaieru/Iormaieru/blob/main/javascript.gif" width="100"> <img src= "https://github.com/Iormaieru/Iormaieru/blob/main/sql.gif" width="100"> <img src= "https://github.com/Iormaieru/Iormaieru/blob/main/vscode.gif  " width="100">
 
 
 ### Saludos...!!! :rocket:
